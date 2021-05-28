@@ -1,1 +1,1 @@
-Repository for the ML assignments.
+Repository for the ML assignments and experiments.
